@@ -1,0 +1,14 @@
+{
+  "name": "encompass-jprof",
+  "version": "0.1.0",
+  "description": "lua profiling tool for usage with encompass-ecs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehemsley/encompass-jprof.git"
+},
+  "author": "Joel Schumacher, Evan Hemsley",
+  "license": "MIT"
+}

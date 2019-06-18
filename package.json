@@ -1,6 +1,6 @@
 {
   "name": "encompass-jprof",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./index.js",
   "description": "lua profiling tool for usage with encompass-ecs",
   "scripts": {

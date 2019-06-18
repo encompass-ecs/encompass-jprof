@@ -1,3 +1,5 @@
-function push(name, annotation) {}
-function pop(name, annotation) {}
-function write(filename) {}
+Object.defineProperty(exports, "__esModule", { value: true });
+
+exports.push = function(name, annotation) {}
+exports.pop = function(name, annotation) {}
+exports.write = function(filename) {}
